@@ -7,9 +7,14 @@ lib-cov
 *.pid
 *.gz
 
+.coverrun
+.coverdata
+coverage.html
+
 pids
 logs
 results
+testoutput
 
 npm-debug.log
 node_modules
