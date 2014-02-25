@@ -7,8 +7,11 @@ Output gulp files with destination files based on the original but varying in a 
 The gulp-out task takes a pattern parameter with the following replacement placeholders
 
 `{basename}` - the base name of the file without the directory and without the extension e.g. for `/Users/dylanb/myproj/css/mycss.css`, `{basename}` will be `mycss`.
+
 `{extension}` - the extension of the file with the `.` e.g. for `/Users/dylanb/myproj/css/mycss.css`, `{extension}` will be `.css`.
+
 `{filename}` - the full name of the file without the directory. e.g. for `/Users/dylanb/myproj/css/mycss.css`, `{filename}` will be `mycss.css`.
+
 
 ###Example
 
