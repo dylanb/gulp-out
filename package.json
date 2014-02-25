@@ -1,6 +1,6 @@
 {
   "name": "gulp-out",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Output files with patterned output filenames",
   "main": "index.js",
   "scripts": {
