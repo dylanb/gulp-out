@@ -12,8 +12,10 @@
   },
   "devDependencies": {
     "gulp-jasmine": "~0.1.3",
-    "gulp": "~3.4.0",
-    "gulp-coverage": "0.0.19"
+    "gulp": "~3.5.2",
+    "gulp-coverage": "0.0.19",
+    "gulp-minify-css": "~0.3.0",
+    "install": "~0.1.7"
   },
   "keywords": [
     "Output",
